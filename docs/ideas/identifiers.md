@@ -4,7 +4,10 @@ email: sam@samuelsmith.org
 version: 1.00
 ---
 
-# ACDC Identifier
+# ACDC Identifiers
+
+[![hackmd-github-sync-badge](https://hackmd.io/n3EappXuQQaBxxkPkUPPIQ/badge)](https://hackmd.io/n3EappXuQQaBxxkPkUPPIQ)
+
 
 ## Namespaced
 
